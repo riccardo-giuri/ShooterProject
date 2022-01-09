@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Shooter",
+			"Path": "C:\\Users\\Drako\\Desktop\\Cg Spectrum\\FPSFortniteStyle\\Shooter\\Source\\Shooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShooterEditor",
+			"Path": "C:\\Users\\Drako\\Desktop\\Cg Spectrum\\FPSFortniteStyle\\Shooter\\Source\\ShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
